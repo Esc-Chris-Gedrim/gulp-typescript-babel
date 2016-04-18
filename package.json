@@ -1,6 +1,6 @@
 {
   "name": "gulp-typescript-babel",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "gulp-typescript + gulp-babel",
   "main": "index.js",
   "scripts": {
