@@ -1,6 +1,6 @@
 {
   "name": "gulp-typescript-babel",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "gulp-typescript + gulp-babel",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "gulp-babel": "^6.1.2",
-    "gulp-typescript": "^2.13.0",
+    "gulp-typescript": "^3.2.1",
     "lazypipe": "^1.0.1"
   },
   "peerDependencies": {
